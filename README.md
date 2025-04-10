@@ -1,2 +1,2 @@
-# demo-club
-demo club
+# Club-Event-System
+Club event management system
